@@ -1,0 +1,8 @@
+{
+  "name": "disho - yemek maliyet analisti",
+  "description": "Yemek fotoğraflarını analiz eden, güncel Türkiye piyasa fiyatlarına göre maliyet tahmini yapan ve menü fiyatı öneren araç.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
